@@ -119,7 +119,7 @@ Things I'm currently working toward:
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Kilobyte123&theme=transparent&hide_border=true"/>
 
 </p>
 
