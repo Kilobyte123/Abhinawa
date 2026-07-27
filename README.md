@@ -111,15 +111,15 @@ Things I'm currently working toward:
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhinawa&show_icons=true&theme=transparent&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kilobyte123&show_icons=true&theme=transparent&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinawa&layout=compact&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kilobyte123&layout=compact&theme=transparent&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Abhinawa&theme=transparent&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Kilobyte123&theme=transparent&hide_border=true"/>
 
 </p>
 
